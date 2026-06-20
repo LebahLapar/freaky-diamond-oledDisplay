@@ -1,3 +1,13 @@
+
+
+https://github.com/user-attachments/assets/247239c3-a1ca-4f97-84e1-03f18aa298c5
+
+
+
+
+
+
+
 # 💎 Freaky Diamond OLED Display
 
 An IoT project to display a **Satono Diamond** character animation on a 128x64 SSD1306 OLED display using I2C communication with an ESP32 DevKit V1.
